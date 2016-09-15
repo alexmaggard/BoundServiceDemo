@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BoundServiceDemo</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+</resources>
